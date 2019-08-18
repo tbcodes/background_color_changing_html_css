@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
-    background-color: #121212;
+    	background-color: #121212;
 	box-sizing: border-box;	
 	animation: BGcolorChanging-6colors 10s linear infinite alternate both;
 }
@@ -13,11 +13,11 @@ div {
 }
 
 .sometxt {
-    color: white;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;      
+    	color: white;
+	display: flex;
+    	flex-direction: column;
+    	justify-content: center;
+    	align-items: center;      
 }
 
 .mydiv1 {
